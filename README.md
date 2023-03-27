@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maria-Archives
+- 👋🏾 Hi, I’m @Maria-Archives
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Html,Css and Python
 - 💞️ I’m looking to collaborate on websites and apps
